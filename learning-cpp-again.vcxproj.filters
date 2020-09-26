@@ -18,7 +18,7 @@
     <ClCompile Include="Calculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CalculatorApp.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -31,7 +31,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="calculator-tutorial.rc">
+    <ResourceCompile Include="learning-cpp-again.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>

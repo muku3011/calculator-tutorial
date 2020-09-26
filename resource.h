@@ -1,6 +1,6 @@
 //{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ generated include file.
-// Used by calculator-tutorial.rc
+// Used by learning-cpp-again.rc
 
 // Next default values for new objects
 // 
